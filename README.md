@@ -61,8 +61,8 @@
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/MUKUL-0072B1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/mukundrajiitb)
-[![Instagram](https://img.shields.io/badge/@mk__mucool-E1306C?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/mkukund_raj_)
+[![Linkedin](https://img.shields.io/badge/Mukund-0072B1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/mukundrajiitb)
+[![Instagram](https://img.shields.io/badge/mukund_raj_-E1306C?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/mkukund_raj_)
 
 
 </div>
