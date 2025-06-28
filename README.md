@@ -62,7 +62,7 @@
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/Mukund-0072B1?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/mukundrajiitb)
-[![Instagram](https://img.shields.io/badge/mukund_raj_-E1306C?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/mkukund_raj_)
+[![Instagram](https://img.shields.io/badge/mukund_raj_-E1306C?style=for-the-badge&logo=instagram&logoColor=FFFFFF)](https://instagram.com/mukund_raj_)
 
 
 </div>
