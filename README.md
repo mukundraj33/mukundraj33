@@ -67,14 +67,7 @@
 
 </div>
 
-<p>
-  <a href="https://linkedin.com/in/mukundrajiitb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mukundraj01234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+
 
 ---
 
