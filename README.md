@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mukund Raj</h1>
-<h3 align="center">3rd Year Undergrad IIT Bombay Student</h3>
+<h1 align="center">Hi 👋, I'm Mukund</h1>
+<h3 align="center">3rd Year Undergrad at IIT Bombay</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=🚀+Exploring+AI+%26+Machine+Learning;👨‍💻+Web+Dev+with+React+%26+Node.js;🧠+Deep+Learning+%7C+NLP+%7C+Computer+Vision;📚+Student+at+IIT+Bombay;💡+Open+Source+Contributor" />
@@ -63,7 +63,7 @@
   <a href="https://linkedin.com/in/mukundrajiitb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:mukundraj01234@gmail.com">
+  <a href="mukundraj01234@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
